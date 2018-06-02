@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
-using BDArmory.Core.Extension;
-using BDArmory.Core.Module;
+//using BDArmory.Core.Extension;
+//using BDArmory.Core.Module;
 
 namespace HullBreach
 {   
